@@ -12,4 +12,3 @@ Tenho interesse em compreender como diferentes tecnologias se conectam para cria
 - **Cibersegurança:** segurança da informação, proteção de dados e análise de vulnerabilidades.
 - **Sistemas de Informação:** integração entre tecnologia, processos e negócios.
 
-
